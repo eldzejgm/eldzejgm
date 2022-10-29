@@ -1,4 +1,4 @@
-## Hi there, I'm EldzejGM - aka Speedcraft.pl 👋<br>[![Website](https://img.shields.io/badge/ELDZEJGM.ML-UP-brightgreen)](https://eldzejgm.ml) [![Website](https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-%23-1DA1F2)](https://eldzejgm.ml/projects)<br><br>I'm a IT student and Developer.
+## Hi there, I'm EldzejGM - aka Speedcraft.dev 👋<br>[![Website](https://img.shields.io/badge/ELDZEJGM.ML-UP-brightgreen)](https://eldzejgm.ml) [![Website](https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-%23-1DA1F2)](https://eldzejgm.ml/projects)<br><br>I'm a IT student and Developer.
 <br>
 - 🔭 I’m currently working on new web page template and minecraft luancher.<br>
 - 🌱 I’m currently learning CSS, PHP, JS, JAVA.<br>
