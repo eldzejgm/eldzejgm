@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eldzejgm&label=Profile%20views&color=0e75b6&style=flat" alt="eldzejgm" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eldzejgm" alt="eldzejgm" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eldzejgm" alt="eldzejgm" /></a> </p><img src="https://cdn.eldzejgm.ml/sc/cooder.gif" width="350px" align="right"/>
 
 - 🔭 I’m currently working on [SpeedCraft.dev](https://speedcraft.dev)
 
@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [EndHost.eu](https://endhost.eu)
 
-- 🤝 I’m looking for help with [SpeedCPanel](https://github.com/SpeedcraftTeam/SpeedCPanel)
+- 🤝 I’m looking for help with [SpeedCPanel](https://github.com/SpeedcraftTeam/SpeedCPanel) 
 
 - 👨‍💻 All of my projects are soon available at [https://eldzejgm.ml](https://eldzejgm.ml)
 
